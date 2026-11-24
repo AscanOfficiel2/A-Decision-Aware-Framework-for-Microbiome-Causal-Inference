@@ -31,7 +31,8 @@ The analysis included:
 - Negative-control analysis using Acidaminococcus intestini.
 - E-value sensitivity analysis.
 
-### Main finding: F. nucleatum showed a positive adjusted association with CRC (estimate = 0.026; 95% CI: 0.021–0.032). However, causal directionality could not be established because longitudinal and host genetic evidence were unavailable.
+### Main finding:
+*F. nucleatum* showed a positive adjusted association with CRC (estimate = 0.026; 95% CI: 0.021–0.032). However, causal directionality could not be established because longitudinal and host genetic evidence were unavailable.
 
 ## Repository Outputs
 
