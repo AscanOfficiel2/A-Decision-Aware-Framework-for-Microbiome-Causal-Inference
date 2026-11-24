@@ -1,7 +1,10 @@
 # Decision-Aware Framework for Microbiome Causal Inference
 
 This repository accompanies the publication:
-Ascandari A, Aminu S, Benhida R, Daoud R. (2026). From Association to Causation: A Decision-Aware Framework for Reproducible Biomarker Discovery and Precision Intervention Design in the Human Gut Microbiome. Briefings in Bioinformatics, 27(3), bbag316. It includes detailed results and figures generated from eight public colorectal cancer (CRC) metagenomic datasets available from the NCBI Sequence Read Archive (SRA) under accessions: PRJDB4176, PRJEB72525, PRJEB72526, PRJEB27928, PRJEB6070, PRJEB7774, and PRJNA1167935. The analysis applies:
+
+Ascandari A, Aminu S, Benhida R, Daoud R. (2026). *From Association to Causation: A Decision-Aware Framework for Reproducible Biomarker Discovery and Precision Intervention Design in the Human Gut Microbiome*. Briefings in Bioinformatics, 27(3), bbag316.
+
+It includes detailed results and figures generated from eight public colorectal cancer (CRC) metagenomic datasets available from the NCBI Sequence Read Archive (SRA) under accessions: PRJDB4176, PRJEB72525, PRJEB72526, PRJEB27928, PRJEB6070, PRJEB7774, and PRJNA1167935. The analysis applies:
 
 - Data harmonization and CLR transformation
 - DML estimation with cross-fitting (EconML)
